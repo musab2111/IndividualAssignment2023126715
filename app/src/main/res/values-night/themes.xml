@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.IndividualAssignment" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">#66BB6A</item> <item name="colorPrimaryVariant">#388E3C</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">#FFD54F</item> <item name="colorSecondaryVariant">#FFD54F</item>
+        <item name="colorOnSecondary">#000000</item>
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+    </style>
+</resources>
